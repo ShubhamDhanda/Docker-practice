@@ -1,4 +1,3 @@
-d
 # Docker Crash Course – Revision Notes
 
 > Personal notes based on the **“Docker Crash Course for Absolute Beginners”** video. :contentReference[oaicite:0]{index=0}  
@@ -100,7 +99,7 @@ d
 
 * An OS has:
 
-  * **Kernel** → talks to hardware (CPU, RAM, disk)
+  * **Kernel (Main OS -Linux, Windows, Mac)** → talks to hardware (CPU, RAM, disk)
   * **User-space / application layer** → apps & tools running on top of kernel
 
 ### Virtual Machines
